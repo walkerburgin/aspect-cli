@@ -11,7 +11,7 @@ ts_project(
         "deep-import.ts",
         "main.ts",
         "subdir/subdir.ts",
-        "type-import.ts",
+        "type-import.tsx",
     ],
     deps = [
         ":node_modules/@aspect-test/a",

@@ -2,14 +2,18 @@ lockfileVersion: 5.4
 
 specifiers:
   '@aspect-test/a': 5.0.2
+  '@aspect-test/b': 4.0.2
   '@aspect-test/c': 2.0.2
   jquery: 3.6.1
+  vitest: 1.6.0
 
 dependencies:
   '@aspect-test/a': 5.0.2
+  '@aspect-test/b': 4.0.2
 
 peerDependencies:
   '@aspect-test/c': 2.0.2
 
 devDependencies:
   jquery: 3.6.1
+  vitest: 1.6.0
